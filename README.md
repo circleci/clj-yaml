@@ -1,16 +1,12 @@
+# This respository was originally a fork of [the original](https://github.com/lancepantz/clj-yaml) and is no longer being maintained. The [project is now a part of clj-commons](https://github.com/clj-commons/clj-yaml).
+
 `circleci/clj-yaml` provides [YAML](http://yaml.org) encoding and
 decoding for Clojure via the [snakeyaml][] Java library.
 
 [SnakeYAML]: https://bitbucket.org/asomov/snakeyaml/
 
-
 [![Clojars Project](https://img.shields.io/clojars/v/circleci/clj-yaml.svg)](https://clojars.org/circleci/clj-yaml) [![cljdoc badge](https://cljdoc.org/badge/circleci/clj-yaml)](https://cljdoc.org/d/circleci/clj-yaml/CURRENT)
  [![CircleCI Status](https://circleci.com/gh/circleci/clj-yaml.svg?style=svg)](https://circleci.com/gh/circleci/clj-yaml)
-
-(This is a maintained fork of [the original][]).
-
-[the original]: https://github.com/lancepantz/clj-yaml
-
 
 ## Usage
 
